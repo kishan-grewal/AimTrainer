@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AimTrainer", "AimTrainer.pyproj", "{1ED8BB4C-24E5-4489-8391-5BCC74D36796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED8BB4C-24E5-4489-8391-5BCC74D36796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED8BB4C-24E5-4489-8391-5BCC74D36796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D640E3-3A99-4412-9BF4-24270F7916E0}
+	EndGlobalSection
+EndGlobal
